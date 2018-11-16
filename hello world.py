@@ -4,6 +4,4 @@
 #!@Author : Mark QQ:78078615
 #!@File   : .py
 
-
-
-print "hello world"
+print ('sss')
